@@ -14,13 +14,12 @@ TODOs.md
 .idea
 
 # VuePress temp directory
-.temp
-
+.temp/
+.cache/
 # Docs dist directory
 /vuepress
 package-lock.json
 # Typescript build dist
 packages/@vuepress/shared-utils/lib/
 packages/@vuepress/shared-utils/types/
-
-.cache
+/src/.vuepress/.cache
