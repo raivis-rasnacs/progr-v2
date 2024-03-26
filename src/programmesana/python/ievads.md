@@ -1,5 +1,6 @@
 ---
 title: Datu ievads un izvads
+order: 1
 ---
 
 ## Datu izvads

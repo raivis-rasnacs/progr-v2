@@ -1,6 +1,7 @@
 ---
 title: Ievads
 index: true
+order: 1
 ---
 ## Ievads
 

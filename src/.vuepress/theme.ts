@@ -1,7 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
-
 export default hopeTheme({
   hostname: "https://prog.kmu.lv",
 
@@ -31,8 +30,6 @@ export default hopeTheme({
   metaLocales: {
     editLink: "Palīdzēt uzlabot šo lapu!",
   },
-
-  plugins: {
     // You should generate and use your own comment service
     
 
@@ -94,5 +91,4 @@ export default hopeTheme({
     //     ],
     //   },
     // },
-  },
 });

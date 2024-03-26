@@ -6,6 +6,9 @@ sidebar: true
 ---
 # ProgHelp - Vietne palīdzībai programmēšanā
 
+![landingpage](/landinggifs.gif)
+
+
 Vietnes adrese: https://prog.kmu.lv
 
 # Apraksts
@@ -37,4 +40,3 @@ Materiāls paredzēts izglītošanas nolūkā.
 Lai izveidotu pēc iespējas labāku materiāli, ir ļauts sadarboties un šis projekts pieejams Github versiju kontroles platformā.
 
 Kontaktiem un jautājumiem: kristaps.muiznieks@bvsk.lv
-<Catalog></Catalog>
