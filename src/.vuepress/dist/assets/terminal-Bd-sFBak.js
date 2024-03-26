@@ -1,0 +1,1 @@
+const s="/python-installer.jpg",o="/vscodewindow.jpg",t="/extension.jpg",p="/helloworld.jpg",_="/create-file.jpg",i="/firstline.jpg",n="/terminal.jpg";export{s as _,o as a,t as b,p as c,_ as d,i as e,n as f};
