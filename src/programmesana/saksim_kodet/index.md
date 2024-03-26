@@ -2,8 +2,6 @@
 title: Sāksim kodēt!
 order: 1
 ---
-![vscode-logo](/vscodelogo.png){: .logoval}
-Attēls: commons.wikimedia.org
 ### Teksta redaktora un interpretatora uzstādīšana
 
 Lai sāktu programmēt, Tev nepieciešams: 

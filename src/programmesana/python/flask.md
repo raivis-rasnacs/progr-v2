@@ -53,7 +53,6 @@ Lai izveidotā lapa būtu dinamiska un ērti papildināma, lieto html šablonus.
 `layout.html` varētu izskatīties šādi:
 
 ~~~html
-{% raw %}
 <!DOCTYPE html>
 <html lang="lv">
   <head>
@@ -66,7 +65,6 @@ Lai izveidotā lapa būtu dinamiska un ērti papildināma, lieto html šablonus.
     {% endblock %}
   </body>
 </html>
-{% endraw %}
 ~~~
 
 Redzam, ka `body` tagā ir izveidots bloks jeb sadaļa, kas saturēs mainīgo lapas daļu. Papildus var ietvert arī navigāciju un citus elementus.
@@ -74,13 +72,11 @@ Redzam, ka `body` tagā ir izveidots bloks jeb sadaļa, kas saturēs mainīgo la
 Izveidosim tagad sadaļu `sakums.html`.
 
 ~~~html
-{% raw %}
 {% extends "layout.html" %}
 
 {% block lapas_saturs %}
     Esi sveicināts sākuma lapā!
 {% endblock %}
-{% endraw %}
 ~~~
 
 Redzam, ka šeit netiek dublēts viss html kods, bet tikai lapas mainīgā daļa, ietverot galveno failu `layout.html`.

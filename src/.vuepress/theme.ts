@@ -26,10 +26,16 @@ export default hopeTheme({
   footer: "Proghelp - vietne palīdzībai programmēšanā",
 
   displayFooter: true,
-
+  pageInfo:[],
   metaLocales: {
     editLink: "Palīdzēt uzlabot šo lapu!",
   },
+  plugins:{
+    mdEnhance: {
+      // this is the default option, so you can use it directly
+      hint: true,
+    },
+  }
     // You should generate and use your own comment service
     
 
