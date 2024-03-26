@@ -17,3 +17,19 @@ Katras tēmas beigās iekļauti "piemēri" (uzdevums ar atrisinājumu), kurus sk
 Šīs vietnes oriģinālās idejas autors ir Kristaps Muižnieks (Babītes vidusskola). Šī vietne nav maksas projekts un ir veidota izglītības nolūkiem.
 
 Drīkst arī sadarboties un uzlabot materiālus. 
+
+# Ja vēlas palīdzēt...
+
+Vietni darbina VUEPRESS un tiek pielietota Markdown sintakse, hopeTheme tēma.
+Lai uzstādītu šo savā datorā, jāuzstāda Node.js un VUEPRESS.
+Lejuplādē šo repozitoriju un izpildi komandu:
+```npm
+npm install
+```
+Lai palaistu vietni lokāli, izpildi komandu:
+
+```npm
+npm run docs:dev
+```
+
+Visas bildes liekam mapē /src/.vuepress/public/

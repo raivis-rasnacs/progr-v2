@@ -43,7 +43,7 @@ Kontaktiem un jautājumiem: kristaps.muiznieks@bvsk.lv
 
 # Ja vēlas palīdzēt...
 
-Motors ir VUEPRESS.
+Vietni darbina VUEPRESS un tiek pielietota Markdown sintakse, hopeTheme tēma.
 Lai uzstādītu šo savā datorā, jāuzstāda Node.js un VUEPRESS.
 Lejuplādē šo repozitoriju un izpildi komandu:
 ```npm
