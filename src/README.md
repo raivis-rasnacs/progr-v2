@@ -40,3 +40,19 @@ Materiāls paredzēts izglītošanas nolūkā.
 Lai izveidotu pēc iespējas labāku materiāli, ir ļauts sadarboties un šis projekts pieejams Github versiju kontroles platformā.
 
 Kontaktiem un jautājumiem: kristaps.muiznieks@bvsk.lv
+
+# Ja vēlas palīdzēt...
+
+Motors ir VUEPRESS.
+Lai uzstādītu šo savā datorā, jāuzstāda Node.js un VUEPRESS.
+Lejuplādē šo repozitoriju un izpildi komandu:
+```npm
+npm install
+```
+Lai palaistu vietni lokāli, izpildi komandu:
+
+```npm
+npm run docs:dev
+```
+
+Visas bildes liekam mapē /src/.vuepress/public/
