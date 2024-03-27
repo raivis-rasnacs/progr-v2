@@ -2,7 +2,7 @@
 home: true
 icon: home
 navbar: true
-heroImage: /logo.png
+heroImage: 
 ---
 # ProgHelp - Vietne palīdzībai programmēšanā
 
