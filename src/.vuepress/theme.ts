@@ -11,7 +11,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "logo.png",
+  logo: "",
 
   repo: "krmu/progr",
 
