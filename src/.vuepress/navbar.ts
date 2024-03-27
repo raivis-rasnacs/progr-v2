@@ -9,16 +9,7 @@ export default navbar([
      text:"Programmēšana",
      link: "/programmesana/",
     },
-    {
-      text:"Git Classroom",
-      link: "/classroom/",
-     },
-    {
-      text:"Datubāzes",
-      link: "/db/",
-    },
-    {
-      text:"Versiju vadība",
-      link: "/versiju_vadiba/",
-    }
+    "datubazes",
+    "versiju_vadiba",
+    "classroom"
 ]);

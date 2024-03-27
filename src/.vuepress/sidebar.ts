@@ -7,19 +7,7 @@ export default sidebar(
      prefix: "/programmesana/",
      children: "structure"
     },
-    {
-      text:"Git classroom",
-      prefix: "/classroom/",
-      children: "structure"
-     },
-    {
-      text:"Datubāzes",
-      prefix: "/db/",
-      children: "structure"
-      },
-      {
-      text:"Versiju vadība",
-      prefix: "/versiju_vadiba/",
-      children: "structure"
-      }
+    "datubazes",
+    "versiju_vadiba",
+    "classroom"
 ]);

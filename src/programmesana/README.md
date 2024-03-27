@@ -1,4 +1,0 @@
----
----
-# Saturs
-<Catalog />
