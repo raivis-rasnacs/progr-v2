@@ -34,6 +34,7 @@ export default hopeTheme({
     mdEnhance: {
       // this is the default option, so you can use it directly
       hint: true,
+      align: true,
     },
   }
     // You should generate and use your own comment service

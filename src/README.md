@@ -2,14 +2,15 @@
 home: true
 icon: home
 navbar: true
-sidebar: true
+heroImage: /logo.png
 ---
 # ProgHelp - Vietne palīdzībai programmēšanā
 
+::: center
+
 ![landingpage](/landinggifs.gif)
+:::
 
-
-Vietnes adrese: https://prog.kmu.lv
 
 # Apraksts
 
@@ -26,13 +27,13 @@ Katras tēmas beigās iekļauti "piemēri" (uzdevums ar atrisinājumu), kurus sk
 Šīs vietnes oriģinālās idejas autors ir Kristaps Muižnieks (Babītes vidusskola). Šī vietne nav maksas projekts un ir veidota izglītības nolūkiem.
 
 Drīkst arī sadarboties un uzlabot materiālus. 
-# Kontakti
 
+# Kontakti
 <dl>
     <dt>Materiāla autori</dt>
     <dd>Kristaps Muižnieks  [ HTML, Javascript, Java, PHP, Python sadaļas] - Babītes vidusskola</dd>
     <dd>Raivis Rasnačs [ HTML, Javascript, Python sadaļas] - Jēkabpils Valsts ģimnāzija</dd>
-    <dd>Gabriels Nikijs Savičs[ SQL sadaļas ] - Babītes vidusskola</dd>
+    <dd>Gabriels Nikijs Savičs [ SQL sadaļas ] - Babītes vidusskola</dd>
 </dl>
 
 Materiāls paredzēts izglītošanas nolūkā.
