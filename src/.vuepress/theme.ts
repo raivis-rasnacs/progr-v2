@@ -26,7 +26,7 @@ export default hopeTheme({
   footer: "Proghelp - vietne palīdzībai programmēšanā",
 
   displayFooter: true,
-  pageInfo:[],
+  pageInfo:false,
   metaLocales: {
     editLink: "Palīdzēt uzlabot šo lapu!",
   },

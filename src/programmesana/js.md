@@ -321,12 +321,13 @@ if(skolens == "Visvaldis"){
 }
 ~~~
 Šeit nav svarīga stingrā vienādība, jo teksts nevar skaitlis. Tāpēc šeit tiek izmantots `==` apzīmējums.
-::: tip
-Svarīgi par " === " un " == "
+::: caution Svarīgi!
+Javascript programmēšanas valodā tiek lietots vienādības apzīmējums ar 3 vienādības zīmēm `===` un divām.<br>
+Atšķirība ir tāda, ka `===` pārbauda arī mainīgo tipu, bet `==` nē.
+
 ::: 
 
-Javascript programmēšanas valodā tiek lietots vienādības apzīmējums ar 3 vienādības zīmēm `===` un divām.
-Atšķirība ir tāda, ka `===` pārbauda arī mainīgo tipu, bet `==` nē.
+ 
 Piemēram doti divi mainīgie:
 
 ~~~js

@@ -6,7 +6,7 @@ order: 3
 
 HTML jeb angļu valodā Hyper Text Markup Language ir marķēšanas/iezīmēšanas valoda, kura ļauj klienta pārlūkā atrādīt mājaslapas saturu. 
 
-::: caution
+::: caution Svarīgi!
 HTML nav programmēšanas valoda.
 :::
 

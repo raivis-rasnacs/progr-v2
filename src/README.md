@@ -11,6 +11,10 @@ heroImage:
 ![landingpage](/landinggifs.gif)
 :::
 
+# Svarīgi - jauns vietnes domēns proghelp.lv
+
+Lai būtu vieglāk atcerēties vietnes adresi un tā būtu vairāk saistīta ar saturu, vietnei ir jauns domēns - [proghelp.lv](https://proghelp.lv) <br>
+Pārsūtīšana no vecā domēna [prog.kmu.lv](https://prog.kmu.lv) uz jauno domēnu notiek automātiski.
 
 # Apraksts
 
