@@ -1,6 +1,10 @@
 # ProgHelp - Vietne palīdzībai programmēšanā
 
-Vietnes adrese: https://prog.kmu.lv
+# Vietnes adreses maiņa
+
+Lai būtu vieglāk atcerēties vietnes adresi, esam mainījuši tās adresi uz proghelp.lv. Pārsūtīšana notiek automātiski.
+
+Vietnes jaunā adrese: https://proghelp.lv
 
 # Apraksts
 
